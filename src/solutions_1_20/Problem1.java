@@ -18,6 +18,7 @@ public class Problem1 {
                 map.put(nums[i],i);
             }
         }
+        System.out.println("nice");
         return null;
     }
 }
